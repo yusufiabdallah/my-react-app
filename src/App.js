@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Yusuf's test CRA app deployed with netlify.
+          Yusuf's test CRA app deployed with Netlify.
         </a>
       </header>
     </div>
